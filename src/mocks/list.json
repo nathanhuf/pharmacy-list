@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "CVS",
+    "selected": false
+  },
+  {
+    "id": 2,
+    "title": "Walgreens",
+    "selected": false
+  },
+  {
+    "id": 3,
+    "title": "Walmart",
+    "selected": false
+  }
+]
